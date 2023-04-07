@@ -1,4 +1,4 @@
-> 开发环境：`visual studio 2019 community` 
+> 开发环境：`visual studio 2022 community` 
 >
 > 工程名：`ZGWUI.sln`
 >
